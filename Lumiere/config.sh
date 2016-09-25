@@ -1,0 +1,1 @@
+milight_ip_adress="192.168.1.37" #Rentrez l'ip de votre ampoule
